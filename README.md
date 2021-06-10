@@ -1,1 +1,1 @@
-# Heart-attack-analuysis
+# Heart-attack-analysis
